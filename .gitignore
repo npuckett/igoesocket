@@ -1,9 +1,0 @@
-*arduino_secrets.h
-*/arduino_secrets.h
-*.DS_Store
-ArduinoWebsocketClient/arduino_secrets.h
-*/node_modules/*
-.DS_Store
-ExpressWsServer/.DS_Store
-.DS_Store
-ArduinoWebsocketClient/arduino_secrets.h
